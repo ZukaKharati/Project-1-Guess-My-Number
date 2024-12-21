@@ -51,7 +51,7 @@ Lose
 ### 📝 Author
 • Name - Zaur Kharati
 
-• Github - [https://github.com/](https://github.com/ZukaKharati?tab=repositories)
+• Github - https://github.com/ZukaKharati/Project-1-Guess-My-Number
 
 • LinkedIn - https://www.linkedin.com/in/zaur-kharati-940287211/
 
