@@ -29,8 +29,11 @@ In the game, the user tries to guess a random hidden number (from 1 to 20). The 
 
 • JavaScript – game logic and interactivity
 
-### How to test the Project
+# How to test the Project
 
+### The link created by the github, to test the project live version.
+
+https://zukakharati.github.io/Project-1-Guess-My-Number/
 
 ### 📷 Screenshots
 
