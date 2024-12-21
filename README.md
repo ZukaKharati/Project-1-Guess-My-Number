@@ -28,3 +28,35 @@ In the game, the user tries to guess a random hidden number (from 1 to 20). The 
 • CSS – providing simple design and visual effects
 
 • JavaScript – game logic and interactivity
+
+### How to test the Project
+
+
+### 📷 Screenshots
+
+Main Page
+![Main](https://github.com/user-attachments/assets/fc3cb82e-c9c2-41bb-96ba-ce57c07e9821)
+
+Win
+
+![image](https://github.com/user-attachments/assets/13ca53a4-fde8-4506-80c6-98bda5aaf747)
+
+Lose
+
+![image](https://github.com/user-attachments/assets/f60ee819-e88f-476a-a858-dc029a28fad9)
+
+### 📝 Author
+• Name - Zaur Kharati
+
+• Github - [https://github.com/](https://github.com/ZukaKharati?tab=repositories)
+
+• LinkedIn - https://www.linkedin.com/in/zaur-kharati-940287211/
+
+
+### 🎉 Thanks for viewing the project and good luck!
+
+
+
+
+
+
