@@ -48,7 +48,7 @@ Lose
 
 ![image](https://github.com/user-attachments/assets/f60ee819-e88f-476a-a858-dc029a28fad9)
 
-### 📝 Author
+### 📝 Profile
 • Name - Zaur Kharati
 
 • Github - https://github.com/ZukaKharati/Project-1-Guess-My-Number
